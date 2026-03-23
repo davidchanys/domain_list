@@ -47,3 +47,9 @@ antigravity.google
 antigravity-unleash.goog
 codeassist.google
 codeassist.google.com
+anthropic.com
+clau.de
+claude.ai
+claude.com
+claudemcpclient.com
+claudeusercontent.com
