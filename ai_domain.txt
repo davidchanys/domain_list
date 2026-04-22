@@ -4,6 +4,8 @@ crixet.com
 oaistatic.com
 oaiusercontent.com
 openai.com
+auth.openai.com
+developers.openai.com
 sora.com
 sora.chatgpt.com
 openai.com.cdn.cloudflare.net
