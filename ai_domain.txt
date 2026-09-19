@@ -41,6 +41,7 @@ cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
 daily-cloudcode-pa.googleapis.com
 notebooklm-pa.googleapis.com
+labstailwind.pa.googleapis.com
 notebooklm.googleapis.com
 notebook.google.com
 notebook.google
