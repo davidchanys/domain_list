@@ -43,7 +43,8 @@ cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
 daily-cloudcode-pa.googleapis.com
 notebooklm-pa.googleapis.com
-save-pa.googleapis.com
+notebook-pa.googleapis.com
+notebook-pa.clients6.google.com
 notebooklm.googleapis.com
 notebook.google.com
 notebook.google
