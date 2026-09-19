@@ -44,7 +44,7 @@ cloudcode-pa.googleapis.com
 daily-cloudcode-pa.googleapis.com
 notebooklm-pa.googleapis.com
 notebook-pa.googleapis.com
-notebook-pa.clients6.google.com
+gemini.gstatic.com
 notebooklm.googleapis.com
 notebook.google.com
 notebook.google
