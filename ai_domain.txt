@@ -37,14 +37,10 @@ makersuite.google.com
 ai.studio
 aistudio.google.com
 bard.google.com
-gemini.google
-gemini.google.com
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
 daily-cloudcode-pa.googleapis.com
 notebooklm-pa.googleapis.com
-notebook-pa.googleapis.com
-gemini.gstatic.com
 notebooklm.googleapis.com
 notebook.google.com
 notebook.google
