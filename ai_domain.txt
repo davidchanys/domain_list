@@ -45,9 +45,6 @@ notebook.google.com
 notebook.google
 notebooklm.google
 notebooklm.google.com
-labs.google
-labs.google.com
-aisandbox-pa.googleapis.com
 aicode.googleapis.com
 aida.googleapis.com
 antigravity-pa.googleapis.com
